@@ -2,5 +2,5 @@
 
 int sum(int begin, int end)
 {	
-	return ((begin+end)*end)/2;
+	return ((begin+end)*(end-begin+1))/2;
 }  
