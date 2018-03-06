@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 #include "sum.h"
 
 int main()
